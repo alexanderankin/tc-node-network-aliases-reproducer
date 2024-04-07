@@ -1,0 +1,5 @@
+[*]
+indent_style = space
+ij_javascript_tab_width = 2
+ij_javascript_indent_size = 2
+ij_javascript_continuation_indent_size = 2
